@@ -19,4 +19,4 @@ b=a%9
 c=nan[b]
 d=nv[b]
 
-print(year+'年男命为'+c+'，女命为'+d)
+print(str(year)+'年男命为'+c+'，女命为'+d)
